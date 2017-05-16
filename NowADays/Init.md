@@ -6,3 +6,5 @@
 [每秒千万级别的量是重生还是炼狱?](http://github.tiankonguse.com/blog/2017/03/04/union-cache.html)
 
 [如何在Windows下像Mac一样优雅开发](http://palmerye.online/%E5%A6%82%E4%BD%95%E5%9C%A8Windows%E4%B8%8B%E5%83%8FMac%E4%B8%80%E6%A0%B7%E4%BC%98%E9%9B%85%E5%BC%80%E5%8F%91)
+
+[程序员必读的十四本经典书籍](https://buluo.qq.com/p/detail.html?bid=15093&pid=7834070-1491757685&from=share_qq)
