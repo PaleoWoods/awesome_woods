@@ -1,1 +1,1 @@
-1、[Swift 学习指引](http://www.swiftguide.cn/)
+* [Swift 学习指引](http://www.swiftguide.cn/)
