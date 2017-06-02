@@ -71,3 +71,5 @@
 * [菜单:动态文字菜单](https://tympanus.net/codrops/2011/03/09/animated-content-menu/)
 
 * [菜单:层叠菜单效果](https://tympanus.net/codrops/2013/08/13/multi-level-push-menu)
+
+* [左、上、右动态菜单(需要翻墙)](https://pupunzi.com/mb.components/mb.extruder/demo/demo.html)
