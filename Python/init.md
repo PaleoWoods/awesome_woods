@@ -5,3 +5,5 @@
 * [Python部落](https://python.freelycode.com/)
 
 * [乱谈 Python 并发](https://juejin.im/entry/58c76465da2f605dc5b1506b)
+
+* [理解高性能Python](http://www.epubit.com.cn/book/onlinechapter/53602)
