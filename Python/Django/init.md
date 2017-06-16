@@ -9,6 +9,6 @@
 
 * [How To Tango With Django](http://www.tangowithdjango.com/book17/)
 
-** 知乎的回答 ** 
+**知乎的回答**
 * [Python 初学者想通过 Django 框架写一个博客，一个月内完成任务，大致的学习路线怎么安排？](https://www.zhihu.com/question/20299906)<br/>
 * [想用Django+ Bootstrap写一个网站， 有哪些比较系统完整的书或者视频可以参考？](https://www.zhihu.com/question/29804463)
