@@ -4,3 +4,7 @@
   [MySQL Sniffer](http://git.oschina.net/qihoo360git/mysql-sniffer)
 
 * [MySQL 中间件汇总比较](http://blog.csdn.net/jerome_s/article/details/53966569)
+> [Vitess 官网](http://vitess.io/)
+
+## 博客
+* [MYSQL Innodb 锁行还是锁表问题探讨](http://blog.csdn.net/zmx729618/article/details/51728654)

@@ -11,6 +11,6 @@
 * [Django 后台管理:Django Suit](https://github.com/darklow/django-suit)
 * [Django 后台管理 -- 将model的数据自动展现前台页面:myadmin](https://github.com/zengchunyun/myadmin)
 
-## 商城
+## 网上商城
 * [购物车应用：cartridge](https://github.com/stephenmcd/cartridge)
 * [电商网站：django-oscar](https://github.com/django-oscar/django-oscar)
