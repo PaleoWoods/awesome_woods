@@ -7,3 +7,6 @@
 ## 安全相关博客
 * [黑客是如何黑到你手机的？绝对涨姿势，一位黑客的Wi-Fi入侵实录！](http://www.360doc.com/content/14/0916/10/5761946_409840362.shtml)
 * [一篇文章了解爬虫技术现状](http://www.jianshu.com/p/fbdad6f77d0c)
+
+## 安全工具相关
+* [漏洞又叒叕来了？！赶紧用上这些开源漏洞检测工具](https://my.oschina.net/editorial-story/blog/1142966)

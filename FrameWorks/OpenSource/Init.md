@@ -1,7 +1,5 @@
-* [Retrofit
-](http://square.github.io/retrofit/)
-
-  A type-safe HTTP client for Android and Java
+* [Retrofit](http://square.github.io/retrofit/)
+> `A type-safe HTTP client for Android and Java`
 
 * [UEditer](http://ueditor.baidu.com/website/index.html)
 

@@ -3,3 +3,5 @@
 * [前端命名神器： codelf](https://github.com/unbug/codelf)
 
 * [前端资源库：Awsomes.cn](https://www.awesomes.cn/)
+
+* [根据图片生成 icon](http://favicon.htmlkit.com/favicon/)
