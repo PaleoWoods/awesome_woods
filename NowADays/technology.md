@@ -6,3 +6,5 @@
 * [如何解决数据一致性、任务调度、流水号生成等问题？](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599370&idx=1&sn=52b7da680c9c1c34ab621c39cecd5209&chksm=8be99118bc9e180efdaf82bb6f822913b77275326146583ffe4556ba576863aa7a10fb736821#rd)
 
 * [这些网站程序员都应该知道](https://juejin.im/entry/59487ecba0bb9f006beb58fe#when-you-get-stuck)
+
+* [负载均衡原理的解析](https://my.oschina.net/u/3341316/blog/877206)

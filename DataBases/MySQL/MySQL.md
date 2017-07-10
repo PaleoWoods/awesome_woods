@@ -8,3 +8,4 @@
 
 ## 博客
 * [MYSQL Innodb 锁行还是锁表问题探讨](http://blog.csdn.net/zmx729618/article/details/51728654)
+* [一张思维导图学会如何构建高性能MySQL系统！](https://mp.weixin.qq.com/s/OBIOAjHo5k8ioNz-F2LoQA)
