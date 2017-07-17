@@ -1,5 +1,5 @@
 ## Mac破解工具
-# [Mac 破解软件 xmac.xyz](http://macapp.xyz/)
+* [Mac 破解软件 xmac.xyz](http://macapp.xyz/)
 
 ## Mac下比较好用的工具集
 * [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
