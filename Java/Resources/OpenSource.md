@@ -7,11 +7,12 @@
 * [开源一个私人笔记管理项目Leafer](https://github.com/ziwenxie/leafer)
 * [开源团队协作 Web 管理系统 TMS](http://git.oschina.net/xiweicheng/tms)
 * [优客服-多渠道客服系统](https://gitee.com/ukewo/ukefu)
+* [Java 开源博客系统:一个用 Java 实现的博客系统，为你或你的团队创建个博客吧](https://gitee.com/dl88250/solo)
 
 ## 开源框架
 * [Java 深度学习 Deep Learning for Java](https://deeplearning4j.org/)
 
 ## 开源工具
 * [Java项目性能监控和调优工具-Javamelody](https://github.com/javamelody/javamelody)
-> JavaMelody能够在运行环境监测Java或Java EE应用程序服务器。并以图表的形式显示：Java内存和Java CPU使用情况，用户Session数量，JDBC连接数，和http请求、sql请求、jsp页面与业务接口方法（EJB3、Spring、Guice）的执行数量，平均执行时间，错误百分比等。图表可以按天，周，月，年或自定义时间段查看。
+>`JavaMelody能够在运行环境监测Java或Java EE应用程序服务器。并以图表的形式显示：Java内存和Java CPU使用情况，用户Session数量，JDBC连接数，和http请求、sql请求、jsp页面与业务接口方法（EJB3、Spring、Guice）的执行数量，平均执行时间，错误百分比等。图表可以按天，周，月，年或自定义时间段查看。`
 > [配置样例](http://blog.csdn.net/lk_blog/article/details/13760999)
