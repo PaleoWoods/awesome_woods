@@ -5,3 +5,5 @@
 * [开发团队必备的现代前端开发指南](https://www.oschina.net/translate/grabs-front-end-guide-for-large-teams)
 
 * [理解JWT（JSON Web Token）认证及实践](https://mp.weixin.qq.com/s/gUgh_kmMu0Hmobeah7wNLQ)
+
+* [下拉列表带输入快速查找及结果分页展示的多功能选择器](http://git.oschina.net/TerryZ/selectpage)

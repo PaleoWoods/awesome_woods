@@ -8,3 +8,5 @@
 * [适用于开发者的最佳 Chrome 扩展工具](https://my.oschina.net/editorial-story/blog/873127)
 
 * [Linux命令大全](http://man.linuxde.net/)
+
+* [ShowDoc 管理 API和数据字典](http://git.oschina.net/mirrors/showdoc)

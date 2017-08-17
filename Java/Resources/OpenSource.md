@@ -5,9 +5,10 @@
 ## 开源软件/系统
 * [JEESNS V1.0 发布，JAVA 开源 SNS 社交系统](https://www.oschina.net/news/82865/jeesns-1-0)
 * [开源一个私人笔记管理项目Leafer](https://github.com/ziwenxie/leafer)
-* [开源团队协作 Web 管理系统 TMS](http://git.oschina.net/xiweicheng/tms)
 * [优客服-多渠道客服系统](https://gitee.com/ukewo/ukefu)
-* [Java 开源博客系统:一个用 Java 实现的博客系统，为你或你的团队创建个博客吧](https://gitee.com/dl88250/solo)
+* [博客系统：Java 开源博客系统:一个用 Java 实现的博客系统，为你或你的团队创建个博客吧](https://gitee.com/dl88250/solo)
+* [管理系统：开源团队协作 Web 管理系统 TMS](http://git.oschina.net/xiweicheng/tms)
+* [管理系统：Guns基于SpringBoot,致力于做更简洁的后台管理系统](http://git.oschina.net/naan1993/guns/)
 
 ## 开源框架
 * [Java 深度学习 Deep Learning for Java](https://deeplearning4j.org/)

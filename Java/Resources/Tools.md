@@ -8,3 +8,9 @@
 
 * [t-io](https://gitee.com/tywo45/t-io)
 > t-io是基于jdk aio实现的易学易用、稳定耐操、性能强悍、将多线程运用到极致、内置功能丰富、核心代码只有3000多行(2017年05月13号统计)的即时通讯框架(广义上的即时通讯，并非指im)，字母 t 寓意talent。
+
+* [bboss session集成权威指南](https://github.com/bbossgroups/security)
+> 集成bboss session框架，为web应用提供session共享和session监控功能.
+
+* [aibton-framework 规范开发流程的框架](https://gitee.com/aibton/aibton-framework)
+> aibton 是一款规范开发流程的框架

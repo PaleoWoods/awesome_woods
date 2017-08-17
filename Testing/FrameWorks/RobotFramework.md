@@ -7,3 +7,5 @@
 
 ## robotframework 使用介绍
 * [Robot Framework Tutorial 2016 – Keywords](https://blog.codecentric.de/en/2016/01/robot-framework-tutorial-2016-keywords/)
+
+* [robotframework扩展发结果邮件功能](http://www.robotframework.net/?/article/118)
