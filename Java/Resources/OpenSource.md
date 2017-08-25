@@ -1,4 +1,4 @@
-# Java 开源
+# Java 开源相关
 ## 开源库
 * [2017 年不容错过的 10+ 个开源 Java 库](https://www.oschina.net/translate/java-libraries-you-cannot-miss-in-2017)
 
@@ -12,6 +12,8 @@
 
 ## 开源框架
 * [Java 深度学习 Deep Learning for Java](https://deeplearning4j.org/)
+* [JFinal 极速开发框架](http://www.jfinal.com/)
+  > `码云地址：https://gitee.com/jfinal/jfinal`
 
 ## 开源工具
 * [Java项目性能监控和调优工具-Javamelody](https://github.com/javamelody/javamelody)

@@ -7,3 +7,10 @@
 
 ## 博客
 * [Jenkins 创始人：持续交付的 What、Why 及 How](https://mp.weixin.qq.com/s/HGU0WW4Cv-I_y1xnWxR5Vw)
+
+
+## Jenkins 插件使用
+* [多个job之间的串并联：Copy Artifact Plugin/ Parameterized Trigger Plugin/Build Pipeline Plugin](http://www.cnblogs.com/luodengxiong/p/5535218.html)
+
+## 配置示例
+* [CentOS下搭建自动化测试基础框架：Jenkins+Maven+TestNG+ReportNG](http://www.cnblogs.com/byron0918/p/5400836.html)
