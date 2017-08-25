@@ -5,4 +5,4 @@
 
 ## Mvn 插件
 * [ Maven SCM plugin ](http://maven.apache.org/scm/maven-scm-plugin/index.html)
-`SCM(Software Configuration Management) Maven中集成的软件配置管理的功能`
+  > `SCM(Software Configuration Management) Maven中集成的软件配置管理的功能`

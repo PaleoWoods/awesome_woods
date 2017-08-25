@@ -6,9 +6,9 @@
 
 ## 中间件
 * [MySQL 中间件汇总比较](http://blog.csdn.net/jerome_s/article/details/53966569)
-> `[Vitess 官网](http://vitess.io/)`
+  > `[Vitess 官网](http://vitess.io/)`
 * [当当开源sharding-jdbc,轻量级数据库分库分表中间件](http://www.infoq.com/cn/news/2016/01/sharding-jdbc-dangdang)
-> `开源地址：[sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc)`
+  > `开源地址：[sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc)`
 
 ## 技术文章
 * [MYSQL Innodb 锁行还是锁表问题探讨](http://blog.csdn.net/zmx729618/article/details/51728654)
