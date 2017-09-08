@@ -16,3 +16,7 @@
 
 ## Django 进阶
 * [Python + Django 如何支撑了 7 亿月活用户的 Instagram？](http://python.jobbole.com/87814/)
+
+
+## Django 小坑记
+* [django css样式,图片路径问题解决方案](https://my.oschina.net/wenhaowu/blog/197035)

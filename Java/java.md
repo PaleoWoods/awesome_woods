@@ -9,6 +9,7 @@
 * [Java - 设计模式学习总结](http://www.jianshu.com/p/8a293e4a888e)
 
 ## Java 开源框架
+* [GitHub 上最火的开源项目 —— Java 篇](https://my.oschina.net/editorial-story/blog/1525158)
 
 ## Java 日志框架
 * [SLF4J+Logback 日志框架使用](http://blog.csdn.net/conquer0715/article/details/9365899)
