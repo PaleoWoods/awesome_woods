@@ -1,3 +1,4 @@
+# MySQL 相关
 
 * [数据库内核月报](http://www.kancloud.cn/taobaomysql/monthly/140080)
 
@@ -5,19 +6,22 @@
   [MySQL Sniffer](http://git.oschina.net/qihoo360git/mysql-sniffer)
 
 ## 中间件
+
 * [MySQL 中间件汇总比较](http://blog.csdn.net/jerome_s/article/details/53966569)
-  > `[Vitess 官网](http://vitess.io/)`
+  > [Vitess 官网](http://vitess.io/)
 * [当当开源sharding-jdbc,轻量级数据库分库分表中间件](http://www.infoq.com/cn/news/2016/01/sharding-jdbc-dangdang)
-  > `开源地址：[sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc)`
+  > 开源地址：[sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc)
 
 ## 技术文章
+
 * [MYSQL Innodb 锁行还是锁表问题探讨](http://blog.csdn.net/zmx729618/article/details/51728654)
 * [一张思维导图学会如何构建高性能MySQL系统！](https://mp.weixin.qq.com/s/OBIOAjHo5k8ioNz-F2LoQA)
 * [MySQL慢日志简介及Anemometer工具介绍 | | For DBA](https://mp.weixin.qq.com/s/VLFFf59yUQvEeYkDvbloNw)
 
 ## 博客列表
+
 * [10年ORACLE MYSQL DBA博客空间](http://blog.itpub.net/7728585/list/1/)
 
-
 ## 工具
+
 * [MyCLI：易于使用的 MySQL/MariaDB 客户端](http://www.toutiao.com/a6452669681290445325/)

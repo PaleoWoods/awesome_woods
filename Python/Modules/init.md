@@ -1,8 +1,12 @@
+# Python 模块&库相关
+
 ## 工具相关
+
 * [A Python utility / library to sort imports.](https://github.com/timothycrosley/isort)<br/>
   > 自动按规则将 imports 的顺序做调整
 
 ## 图表相关
+
 * [使用 Python 生成 Echarts 图表的类库 pyecharts](https://github.com/chenjiandongx/pyecharts)
   > `pyecharts 是一个用于生成 Echarts 图表的类库。实际上就是 Echarts 与 Python 的对接。
 
