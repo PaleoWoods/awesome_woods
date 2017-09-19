@@ -7,3 +7,5 @@
 * [Python全栈之路系列文章](https://blog.ansheng.me/article/python-full-stack-way)
 
 * [<流畅的 Python> 摘录](http://ialloc.org/posts/2017/09/03/fluentpython-notes/)
+
+* [PyCrypto 已死，请替换为 PyCryptodome](https://www.oschina.net/news/88379/pycryptodome-replace-pycrypto)

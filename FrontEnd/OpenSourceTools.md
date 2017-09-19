@@ -7,6 +7,12 @@
 * [前端资源库：Awsomes.cn](https://www.awesomes.cn/)
 * [根据图片生成 icon](http://favicon.htmlkit.com/favicon/)
 
+* [SelectPage v2.7 发布，简洁而强大的下拉分页选择器](https://www.oschina.net/news/88656/selectpage-2-7)
+* [JS / HTML/ CSS 终端工具 Hyper.js](https://github.com/zeit/hyper)
+  > 基本介绍：`https://www.oschina.net/p/hyperterm`
+* [JavaScript表单验证 validator-js](http://jaywcjlove.github.io/validator.js/)
+* [layDate 5.0.6 发布，全新一代 JS 日期与时间组件](http://www.layui.com/laydate/)
+
 ## 后端整体框架
 
 * [layui](https://github.com/sentsin/layui/) [官方网站](http://www.layui.com)
@@ -18,3 +24,13 @@
 * [muse-ui](https://github.com/museui/muse-ui) [官方网站](https://museui.github.io)
   > `Material Design UI library for Vuejs 2.0（基于 Vue 2.0 和 Material Design 的 UI 组件库）`
 
+* [NG-ZORRO 0.5.0 发布，Ant Design 的 Angular 4.0 实现](https://github.com/NG-ZORRO/ng-zorro-antd)
+
+## 移动端项目
+
+* [基于vue2 + muse-ui构建的移动端轻社区项目 F-Rent 友租](https://github.com/52NineTwo/F-Rent)
+
+## 前端整体框架
+
+* [Jslet](https://github.com/jslet/jslet) [官方网站](http://www.jslet.com/cn/index.html)
+  > `Web软件的优点很多，但是企业级Web软件在性能、操作性、报表、开发速度等方面与传统的CS软件还是有不小的差距。`

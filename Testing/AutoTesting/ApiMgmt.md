@@ -8,8 +8,10 @@
 
 ## NodeJS
 
-* [Swagger ](https://github.com/swagger-api/swagger-ui)[](http://swagger.io)
+* **[Swagger](https://github.com/swagger-api/swagger-ui)[](http://swagger.io)**
   > `Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.`
+
+  [一个小例子](https://gitee.com/xiaoym/swagger-bootstrap-ui-demo)
 
   NodeJS 开发的REST-API接口模拟、文档管理
 
@@ -28,7 +30,10 @@
 * [ShowDoc](https://gitee.com/star7th/showdoc)
   > `ShowDoc就是一个非常适合IT团队的在线文档分享工具，它可以加快团队之间沟通的效率。教程地址：https://www.showdoc.cc/help
   * [ShowDoc 管理 API和数据字典](http://git.oschina.net/mirrors/showdoc)`
-
+* [XAPI MANAGER](https://github.com/duolatech/xApi-Manager)
+  > 专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的API管理工具，让API管理变的更加清晰、明朗。
+  > 全站基于 Laravel 5.4 + Bootstrap + jQuery +layer3.0开发
+  > 官方地址：`http://xapi.smaty.net/` （admin/admin123）
 ----------------
 
 ## 接口测试经验

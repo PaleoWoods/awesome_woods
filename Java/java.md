@@ -11,6 +11,7 @@
 
 * [Java开发中的23种设计模式详解](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)
 * [Java - 设计模式学习总结](http://www.jianshu.com/p/8a293e4a888e)
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 
 ## Java 开源框架
 

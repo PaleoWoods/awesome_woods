@@ -3,6 +3,7 @@
 ## 开源库
 
 * [2017 年不容错过的 10+ 个开源 Java 库](https://www.oschina.net/translate/java-libraries-you-cannot-miss-in-2017)
+* [可能是最火的开源项目 —— Java 篇](https://my.oschina.net/editorial-story/blog/1525158)
 
 ## 开源软件/系统
 
@@ -21,10 +22,18 @@
 * [nh-micro](https://github.com/jeffreyning/nh-micro)
   >`脚本化微服务(NHMicro开源框架)实现MVC反模式 Controller层改造,使用微服务交互接口取代Controller，或者仍使用原有Controller技术栈，但调用NHMicro微服务提供的脚本调用Util。 Service层改造:Service层功能代码脚本化，脚本化有利于快速调整调用流程，有利于版本化。`
 * [XXL-JOB 分布式任务调度平台](https://github.com/xuxueli/xxl-job)
-  > `XXL-JOB是一个轻量级分布式任务调度框架，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。 文档介绍：http://www.xuxueli.com/xxl-job`
+  > `XXL-JOB是一个轻量级分布式任务调度框架，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。`
+  >文档介绍：`http://www.xuxueli.com/xxl-job`
+
+* [YMP v2](https://github.com/suninformation/ymate-platform-v2)
+  > YMP是一个非常简单、易用的一套轻量级JAVA应用开发框架，设计原则主要侧重于简化工作任务、规范开发流程、提高开发效率，让开发工作像搭积木一样轻松是我们一直不懈努力的目标！涵盖AOP、IoC、WebMVC、ORM、Validation、Plugin、Serv、Cache等特性，让开发工作像搭积木一样轻松！
+  > 官网地址：`http://www.ymate.net/`
 
 ## 开源工具
 
 * [Java项目性能监控和调优工具-Javamelody](https://github.com/javamelody/javamelody)
   >`JavaMelody能够在运行环境监测Java或Java EE应用程序服务器。并以图表的形式显示：Java内存和Java CPU使用情况，用户Session数量，JDBC连接数，和http请求、sql请求、jsp页面与业务接口方法（EJB3、Spring、Guice）的执行数量，平均执行时间，错误百分比等。图表可以按天，周，月，年或自定义时间段查看。`
   > [配置样例](http://blog.csdn.net/lk_blog/article/details/13760999)
+
+* [新一代代码生成器 lemur-generation](https://gitee.com/jueyue/lemur-generation)
+  > 根据模板配置,生成代码,让你写更少的代码 `http://gen.afterturn.cn`

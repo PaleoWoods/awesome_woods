@@ -15,6 +15,8 @@
 * [Django 后台管理 -- 继承和扩展Xadmin：DjangoX](https://github.com/JoneXiong/DjangoX)
 * [Django 后台管理:Django Suit](https://github.com/darklow/django-suit)
 * [Django 后台管理 -- 将model的数据自动展现前台页面:myadmin](https://github.com/zengchunyun/myadmin)
+* [AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x](https://github.com/almasaeed2010/AdminLTE)
+  > 基本介绍：`https://adminlte.io/`
 
 ## 网上商城
 

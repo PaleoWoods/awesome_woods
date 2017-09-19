@@ -8,7 +8,7 @@
 ## 博客
 
 * [Jenkins 创始人：持续交付的 What、Why 及 How](https://mp.weixin.qq.com/s/HGU0WW4Cv-I_y1xnWxR5Vw)
-
+* [持续交付模式下的安全活动](http://insights.thoughtworks.cn/security-in-continuous-delivery/)
 
 ## Jenkins 插件使用
 

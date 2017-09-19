@@ -4,6 +4,11 @@
 
 * [Mac 破解软件 xmac.xyz](http://macapp.xyz/)
 
+## 博客相关
+
+* [Mac开发必备工具（一）—— Homebrew](https://davidsheh.github.io/2017/08/26/mac-homebrew/)
+* [Install On Request Events(2016-07-14 - 2017-07-14)](https://brew.sh/analytics/install-on-request/)
+
 ## Mac下比较好用的工具集
 
 * [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)

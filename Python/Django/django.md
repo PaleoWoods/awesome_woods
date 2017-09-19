@@ -26,3 +26,7 @@
 ## Django 小坑记
 
 * [django css样式,图片路径问题解决方案](https://my.oschina.net/wenhaowu/blog/197035)
+
+## Django 博客集合
+
+* [Django随笔分类](http://www.cnblogs.com/scolia/category/827657.html)

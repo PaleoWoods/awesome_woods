@@ -17,3 +17,4 @@
 * [用vim被人说装逼，怎么办?](https://www.zhihu.com/question/58488056/answer/177493023)
 * [Vim实战指南：ex命令](http://www.cnblogs.com/dasn/articles/5240991.html)
 * [learn vim script the hard way](https://morefreeze.github.io/2017/06/learn-vim-script-the-hard-way.html)
+* [SpaceVim 官方中文文档，欢迎尝试，部分文档还在翻译中](https://juejin.im/entry/59b7da24518825231f64a931)
