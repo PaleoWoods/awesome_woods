@@ -4,6 +4,7 @@
 
 * [Java线程那点事儿](https://segmentfault.com/a/1190000009825287)
 * [java多线程——volatile](https://my.oschina.net/u/1859679/blog/1528609)
+* [java多线程——并发测试](https://juejin.im/entry/59c9b4e0f265da064704014b)
 
 ### Volatile
 

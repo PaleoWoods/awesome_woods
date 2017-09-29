@@ -5,7 +5,8 @@
 
 ## 工具类
 
-* [material-theme-jetbrains Intellij IDEA 主题](https://github.com/ChrisRM/material-theme-jetbrains)
+* [7 款 JAVA 程序开发“大杀器”](https://my.oschina.net/gitosc/blog/1542005)
+* [6款 Java WEB应用开发工具](https://my.oschina.net/gitosc/blog/1538466)
 
 ## 设计模式
 

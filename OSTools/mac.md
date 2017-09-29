@@ -9,6 +9,10 @@
 * [Mac开发必备工具（一）—— Homebrew](https://davidsheh.github.io/2017/08/26/mac-homebrew/)
 * [Install On Request Events(2016-07-14 - 2017-07-14)](https://brew.sh/analytics/install-on-request/)
 
+* [基于 Graphviz 实现程序化绘图](基于 Graphviz 实现程序化绘图)
+
+* [zsh 开发](https://github.com/goreliu/zshguide)
+
 ## Mac下比较好用的工具集
 
 * [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
@@ -18,3 +22,8 @@
 
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask)
   >`Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Google Chrome and Adium.`
+
+## Alfred
+
+* [linux-command 迅速查看 Linux 命令用法](https://github.com/jaywcjlove/linux-command/releases)
+  * [一个快速查询项目依赖的Alfred插件](https://gitee.com/MrWood/DepQuery)

@@ -3,15 +3,22 @@
 ## 工具
 
 * [基于 Ueditor 的现代化富文本编辑器 Neditor](https://github.com/notadd/neditor)
+* [基于 kindeditor 的富文本编辑器 NKedtior](https://gitee.com/blackfox/kindeditor)
+
 * [前端命名神器： codelf](https://github.com/unbug/codelf)
 * [前端资源库：Awsomes.cn](https://www.awesomes.cn/)
 * [根据图片生成 icon](http://favicon.htmlkit.com/favicon/)
+
+* [WebSlides 1.5.0 发布，HTML 幻灯图演示工具](https://gitee.com/mirrors/webslides)
+  > 介绍：`https://www.oschina.net/news/88837/webslides-1-5-0`
 
 * [SelectPage v2.7 发布，简洁而强大的下拉分页选择器](https://www.oschina.net/news/88656/selectpage-2-7)
 * [JS / HTML/ CSS 终端工具 Hyper.js](https://github.com/zeit/hyper)
   > 基本介绍：`https://www.oschina.net/p/hyperterm`
 * [JavaScript表单验证 validator-js](http://jaywcjlove.github.io/validator.js/)
 * [layDate 5.0.6 发布，全新一代 JS 日期与时间组件](http://www.layui.com/laydate/)
+
+* [给 Web 开发人员推荐的文档生成工具](https://my.oschina.net/editorial-story/blog/1541328)
 
 ## 后端整体框架
 
@@ -34,3 +41,5 @@
 
 * [Jslet](https://github.com/jslet/jslet) [官方网站](http://www.jslet.com/cn/index.html)
   > `Web软件的优点很多，但是企业级Web软件在性能、操作性、报表、开发速度等方面与传统的CS软件还是有不小的差距。`
+
+* [Inoic HTML5 移动应用框架 手机Web开发框架](http://ionicframework.com/docs/)

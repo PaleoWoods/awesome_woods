@@ -8,3 +8,5 @@
 
 * [谈谈基于 OpenResty 的接口网关设计](https://www.zybuluo.com/yishuailuo/note/844059)
   * [openresty 火焰图 系统分析工具](https://juejin.im/entry/59b74e7a5188257e8018e145)
+
+* [Spatial Partition Pattern](http://gameprogrammingpatterns.com/spatial-partition.html)

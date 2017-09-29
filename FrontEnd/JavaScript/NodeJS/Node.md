@@ -10,3 +10,6 @@
 
 * [GUI 应用程序的库 Yue](https://gitee.com/mirrors/Yue)
   > Yue 是用于创建本机跨平台 GUI 应用程序的库
+
+* [NodeBB](https://github.com/NodeBB/NodeBB)
+  > Node.js based forum software built for the modern web

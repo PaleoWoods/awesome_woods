@@ -25,7 +25,21 @@
     Jodd = Tools + IoC + MVC + DB + AOP + TX + JSON + HTML < 1.5 Mb
     文档介绍：`https://jodd.org/`
 
+* [feilong core Java开发更简便的工具包](https://gitee.com/ifeilong/feilong-core)
+  > 让Java开发更简便的工具包，让你从大量重复的底层代码中脱身,提高工作效率; 让你的代码更简炼，易写、易读、易于维护
+
 * [Java的HTTP协议库 HttpComponents](https://www.oschina.net/p/httpclient)
   > `HttpComponents 也就是以前的httpclient项目，可以用来提供高效的、最新的、功能丰富的支持 HTTP 协议的客户端/服务器编程工具包，并且它支持 HTTP 协议最新的版本和建议。`
 
   [官方网站](http://hc.apache.org/)
+
+* [Netty]
+  * [Netty In Action](http://lanxinglan.cn/2017/09/13/Netty-In-Action-%E4%BA%8C/)
+
+* [ureport](https://gitee.com/youseries/ureport)
+  > UReport2是一款高性能的Java报表引擎，提供完善的基于网页的报表设计器，可快速做出各种复杂的中式报表
+
+* [EasyPoi -- Excel和 Word简易工具类](https://gitee.com/lemur/easypoi)
+  > POI 工具类,Excel的快速导入导出,Excel模板导出,Word模板导出,可以仅仅5行代码就可以完成Excel的导入导出,修改导出格式简单粗暴,快速有效,easypoi值得你尝试 
+
+  [官方网站](http://www.afterturn.cn/)

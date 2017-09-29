@@ -6,3 +6,5 @@
 * [乱谈 Python 并发](https://juejin.im/entry/58c76465da2f605dc5b1506b)
 * [理解高性能Python](http://www.epubit.com.cn/book/onlinechapter/53602)
 * [http&https，python抓包知多少](http://www.sohu.com/a/163573068_575744)
+
+* [可能是国内最火的开源项目 —— Python 篇](https://my.oschina.net/editorial-story/blog/1539390)

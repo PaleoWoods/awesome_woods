@@ -12,6 +12,8 @@
 
 * [高级在线 MarkDown 编辑器](https://www.zybuluo.com/mdeditor)
 
+* [个性满满！那些有意思的艺术图像生成工具推荐](https://my.oschina.net/editorial-story/blog/1544979)
+
 ## 微信开发工具
 
 * [【码云周刊第 36 期】微信小程序发开必备工具](https://my.oschina.net/gitosc/blog/1526944)
@@ -19,3 +21,5 @@
 ## 公共资源
 
 * [BootCDN：稳定、快速、免费的前端开源项目 CDN 加速服务](http://www.bootcdn.cn/)
+
+* [码农日常工具推荐（文档，思维导图，绘图）](https://juejin.im/entry/59c9eb05f265da06664153c1)

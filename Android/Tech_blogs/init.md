@@ -7,3 +7,5 @@
 * [Android性能优化（十）之App瘦身攻略](http://www.jianshu.com/p/99f3c09982d4)
 
 * [给 Android 开发者的 31 个 Pro 版进阶小贴士](https://www.oschina.net/translate/31-tips-to-become-a-better-android-developer)
+
+* [Android 高级进阶(源码剖析篇)](http://mp.weixin.qq.com/s/BdrHkWKdHkjlblCfwxCOow)

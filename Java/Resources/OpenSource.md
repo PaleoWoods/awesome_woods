@@ -5,6 +5,8 @@
 * [2017 年不容错过的 10+ 个开源 Java 库](https://www.oschina.net/translate/java-libraries-you-cannot-miss-in-2017)
 * [可能是最火的开源项目 —— Java 篇](https://my.oschina.net/editorial-story/blog/1525158)
 
+* [6款 Java WEB应用开发框架](https://my.oschina.net/gitosc/blog/1538466)
+
 ## 开源软件/系统
 
 * [JEESNS V1.0 发布，JAVA 开源 SNS 社交系统](https://www.oschina.net/news/82865/jeesns-1-0)
@@ -25,6 +27,12 @@
   > `XXL-JOB是一个轻量级分布式任务调度框架，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。`
   >文档介绍：`http://www.xuxueli.com/xxl-job`
 
+* [URULE 中式规则引擎](https://gitee.com/youseries/urule)
+  > URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。
+
+* [iBase4J](https://gitee.com/iBase4J/iBase4J)
+  > JAVA分布式快速开发平台：SpringBoot，SpringMVC，Mybatis，mybatis-plus，motan/dubbo分布式，Redis缓存，Shiro权限管理，Spring-Session单点登录，Quartz分布式集群调度，Restful服务，QQ/微信登录，App token登录，微信/支付宝支付；日期转换、数据类型转换、序列化、汉字转拼音、身份证号码验证、数字转人民币、发送短信、发送邮件、加密解密、图片处理、excel导入导出、FTP/SFTP/fastDFS上传下载、二维码、XML读写、高精度计算、系统配置工具类等等。
+
 * [YMP v2](https://github.com/suninformation/ymate-platform-v2)
   > YMP是一个非常简单、易用的一套轻量级JAVA应用开发框架，设计原则主要侧重于简化工作任务、规范开发流程、提高开发效率，让开发工作像搭积木一样轻松是我们一直不懈努力的目标！涵盖AOP、IoC、WebMVC、ORM、Validation、Plugin、Serv、Cache等特性，让开发工作像搭积木一样轻松！
   > 官网地址：`http://www.ymate.net/`
@@ -37,3 +45,10 @@
 
 * [新一代代码生成器 lemur-generation](https://gitee.com/jueyue/lemur-generation)
   > 根据模板配置,生成代码,让你写更少的代码 `http://gen.afterturn.cn`
+
+* [Neo4j -- 高性能图形数据库](https://gitee.com/mirrors/neo4j)
+
+* [SkyWalking 自动探针Java APM](https://gitee.com/wu-sheng/sky-walking)
+  > 针对分布式系统的APM系统，也被称为分布式追踪系统，中国知名度最高的自动探针Java APM项目
+
+  [官方网站](http://skywalking.org/)

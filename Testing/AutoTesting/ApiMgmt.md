@@ -24,6 +24,7 @@
 
 * [moco](https://github.com/dreamhead/moco)
   > `Easy Setup Stub Server, Moco is an easy setup stub framework.`
+* [LuckyFrame 2.2 正式发布，一站式的自动化测试平台](https://gitee.com/seagull1985/LuckyFrameWeb)
 
 ## PHP
 
