@@ -11,10 +11,16 @@
 
 * [JEESNS V1.0 发布，JAVA 开源 SNS 社交系统](https://www.oschina.net/news/82865/jeesns-1-0)
 * [开源一个私人笔记管理项目Leafer](https://github.com/ziwenxie/leafer)
+
+* [tale java 博客管理系统](https://github.com/otale/tale)
 * [优客服-多渠道客服系统](https://gitee.com/ukewo/ukefu)
 * [博客系统：Java 开源博客系统:一个用 Java 实现的博客系统，为你或你的团队创建个博客吧](https://gitee.com/dl88250/solo)
 * [管理系统：开源团队协作 Web 管理系统 TMS](http://git.oschina.net/xiweicheng/tms)
+
 * [管理系统：Guns基于SpringBoot,致力于做更简洁的后台管理系统](http://git.oschina.net/naan1993/guns/)
+
+* [管理系统：BootDo 面向学习型的开源框架](https://github.com/lcg0124/bootdo)
+* [老成FMS-UI代码在线生成器](https://gitee.com/lcfms/lcfms)
 
 ## 开源框架
 
@@ -52,3 +58,10 @@
   > 针对分布式系统的APM系统，也被称为分布式追踪系统，中国知名度最高的自动探针Java APM项目
 
   [官方网站](http://skywalking.org/)
+
+* [Zipkin 分布式跟踪系统](https://gitee.com/mirrors/zipkin)
+  > Zipkin 是一个分布式跟踪系统。 它有助于收集解决微服务架构中延迟问题所需的时序数据，并管理此数据的收集和查找。 Zipkin 的设计基于 Google Dapper 论文。
+
+  [官方网站](http://zipkin.io/zipkin)
+
+* [HikariCP 高性能 JDBC 连接池组件](https://github.com/brettwooldridge/HikariCP)

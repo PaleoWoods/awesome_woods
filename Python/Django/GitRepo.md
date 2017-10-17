@@ -22,3 +22,10 @@
 
 * [购物车应用：cartridge](https://github.com/stephenmcd/cartridge)
 * [电商网站：django-oscar](https://github.com/django-oscar/django-oscar)
+
+* [主题模型：gensim](https://github.com/RaRe-Technologies/gensim)
+
+## 工程项目
+
+* [gooderp_addons](https://github.com/osbzr/gooderp_addons)
+   > 可能是中国用户数最多的开源ERP

@@ -8,6 +8,9 @@
 * [2017 年 5 月：15 个有趣的 JS 和 CSS 库](https://zhuanlan.zhihu.com/p/26771146d)
 * [好用的侧边栏菜单/面板jQuery插件](http://www.shejidaren.com/slider-menu-jquery-plugins.html)
 * [67 个节省开发者时间的实用工具、库与资源（前端向）](https://zhuanlan.zhihu.com/p/29388576)
+* [可能是国内最火的开源项目 —— JavaScript 篇](https://my.oschina.net/editorial-story/blog/1545738)
+
+* [常见JS动画效果](https://my.oschina.net/sichunchen/blog/1544549)
 
 ## 线性动画
 

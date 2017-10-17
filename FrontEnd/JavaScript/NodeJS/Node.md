@@ -13,3 +13,5 @@
 
 * [NodeBB](https://github.com/NodeBB/NodeBB)
   > Node.js based forum software built for the modern web
+
+* [franchise 页面 SQL 执行器](https://github.com/HVF/franchise)

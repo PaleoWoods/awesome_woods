@@ -9,3 +9,5 @@
 * [<流畅的 Python> 摘录](http://ialloc.org/posts/2017/09/03/fluentpython-notes/)
 
 * [PyCrypto 已死，请替换为 PyCryptodome](https://www.oschina.net/news/88379/pycryptodome-replace-pycrypto)
+
+* [总结学习 Python 的 14 张思维导图汇总](https://www.oschina.net/news/89223/python-programe-language)

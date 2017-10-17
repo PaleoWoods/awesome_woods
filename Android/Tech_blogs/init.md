@@ -9,3 +9,5 @@
 * [给 Android 开发者的 31 个 Pro 版进阶小贴士](https://www.oschina.net/translate/31-tips-to-become-a-better-android-developer)
 
 * [Android 高级进阶(源码剖析篇)](http://mp.weixin.qq.com/s/BdrHkWKdHkjlblCfwxCOow)
+
+* [减小 APK 包大小](https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/)

@@ -4,6 +4,7 @@
 
 * [基于 Ueditor 的现代化富文本编辑器 Neditor](https://github.com/notadd/neditor)
 * [基于 kindeditor 的富文本编辑器 NKedtior](https://gitee.com/blackfox/kindeditor)
+* [TinyMCE 4.7.0 发布，JavaScript 富文本编辑器](https://gitee.com/mirrors/tinymce)
 
 * [前端命名神器： codelf](https://github.com/unbug/codelf)
 * [前端资源库：Awsomes.cn](https://www.awesomes.cn/)

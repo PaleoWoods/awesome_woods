@@ -43,3 +43,8 @@
   > POI 工具类,Excel的快速导入导出,Excel模板导出,Word模板导出,可以仅仅5行代码就可以完成Excel的导入导出,修改导出格式简单粗暴,快速有效,easypoi值得你尝试 
 
   [官方网站](http://www.afterturn.cn/)
+
+* [JFinal-event JFinal 事件驱动插件](https://gitee.com/596392912/JFinal-event)
+  > JFinal-event事件驱动插件，无任何第三方依赖，小巧玲珑。
+
+  [官方网站](http://www.dreamlu.net)
