@@ -60,7 +60,7 @@
 
 * [Neo4j -- 高性能图形数据库](https://gitee.com/mirrors/neo4j)
 
-* [SkyWalking 自动探针Java APM](https://gitee.com/wu-sheng/sky-walking)
+* [SkyWalking 自动探针Java APM](https://gitee.com/OpenSkywalking/sky-walking)
   > 针对分布式系统的APM系统，也被称为分布式追踪系统，中国知名度最高的自动探针Java APM项目
 
   [官方网站](http://skywalking.org/)
