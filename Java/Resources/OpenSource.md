@@ -22,6 +22,9 @@
 * [管理系统：BootDo 面向学习型的开源框架](https://github.com/lcg0124/bootdo)
 * [老成FMS-UI代码在线生成器](https://gitee.com/lcfms/lcfms)
 
+* [BI系统：CBoard](https://github.com/yzhang921/CBoard)
+
+
 ## 开源框架
 
 * [Java 深度学习 Deep Learning for Java](https://deeplearning4j.org/)
@@ -42,6 +45,9 @@
 * [YMP v2](https://github.com/suninformation/ymate-platform-v2)
   > YMP是一个非常简单、易用的一套轻量级JAVA应用开发框架，设计原则主要侧重于简化工作任务、规范开发流程、提高开发效率，让开发工作像搭积木一样轻松是我们一直不懈努力的目标！涵盖AOP、IoC、WebMVC、ORM、Validation、Plugin、Serv、Cache等特性，让开发工作像搭积木一样轻松！
   > 官网地址：`http://www.ymate.net/`
+
+* [hasor](https://github.com/zycgit/hasor)
+  > Hasor是一套基于 Java 语言的分布式应用程序开发框架，它的核心设计目标是提供一个简单、且必要的环境给开发者。区别于其它框架的是 Hasor 有着自己一套完整的体系，无论您是一般的Web项目，还是几百人团队中复杂的分布式系统。Hasor都会给予你最有力的支持。
 
 ## 开源工具
 

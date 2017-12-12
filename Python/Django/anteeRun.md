@@ -16,3 +16,15 @@
 * https://jqadmin.jqcool.net/
 
 * http://fly.layui.com/case/2017/top/
+
+## django permission
+
+* http://www.cnblogs.com/zengchunyun/p/6158672.html
+* http://www.cnblogs.com/holbrook/archive/2012/02/10/2357344.html
+* http://python.jobbole.com/85261/
+* http://www.cnblogs.com/tonycloud/articles/7221579.html
+* http://www.wang1314.com/doc/topic-2143158-1.html
+
+* https://github.com/django-guardian/django-guardian
+
+* [design-blocks](https://github.com/froala/design-blocks)

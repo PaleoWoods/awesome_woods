@@ -13,6 +13,8 @@
 * [一篇文章了解爬虫技术现状](http://www.jianshu.com/p/fbdad6f77d0c)
 * [常见端口及安全测试](https://mp.weixin.qq.com/s/jcJwgI5T6AH6laOBq01hhQ)
 
+* [常用密码学技术](https://qiuzhenyuan.github.io/2017/09/24/%E5%B8%B8%E7%94%A8%E5%AF%86%E7%A0%81%E5%AD%A6%E6%8A%80%E6%9C%AF/)
+
 ## 安全工具相关
 
 * [漏洞又叒叕来了？！赶紧用上这些开源漏洞检测工具](https://my.oschina.net/editorial-story/blog/1142966)

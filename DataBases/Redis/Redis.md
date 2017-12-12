@@ -8,6 +8,8 @@
 
 * [实现 redis 分布式会话：distributed-session](https://github.com/joincat/distributed-session)
 
+* [使用Redis实现分布式锁及其优化](http://mzorro.me/2017/10/25/redis-distributed-lock/)
+
 ## 学习篇
 
 * [Redis命令](http://redis.cn/commands.html)

@@ -28,4 +28,7 @@
 ## 工程项目
 
 * [gooderp_addons](https://github.com/osbzr/gooderp_addons)
-   > 可能是中国用户数最多的开源ERP
+  > 可能是中国用户数最多的开源ERP
+
+* [DjangoX](https://github.com/JoneXiong/DjangoX)
+  > 强大的 Django 管理后台，依托于实际项目和生产环境互联网产品的总结积累，继承和扩展Xadmin，DjangoX 努力做 Django 框架的优秀实践项目。

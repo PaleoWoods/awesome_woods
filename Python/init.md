@@ -8,3 +8,7 @@
 * [http&https，python抓包知多少](http://www.sohu.com/a/163573068_575744)
 
 * [可能是国内最火的开源项目 —— Python 篇](https://my.oschina.net/editorial-story/blog/1539390)
+
+* [bokeh](https://github.com/bokeh/bokeh)
+    > Bokeh, a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
+    > Bokeh helps provide elegant, concise construction of novel graphics in the style of D3.js, while also delivering high-performance interactivity over very large or streaming datasets.

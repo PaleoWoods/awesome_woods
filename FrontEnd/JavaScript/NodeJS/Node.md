@@ -15,3 +15,6 @@
   > Node.js based forum software built for the modern web
 
 * [franchise 页面 SQL 执行器](https://github.com/HVF/franchise)
+
+* [searchkit](https://github.com/searchkit/searchkit)
+  > React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.

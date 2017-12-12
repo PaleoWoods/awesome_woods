@@ -15,3 +15,5 @@
 * [可能是国内最火的开源项目 —— HTML/CSS 篇](https://my.oschina.net/editorial-story/blog/1546696)
 
 * [17素材网，前端页面样式](http://www.17sucai.com/pins/tag/3886.html)
+
+* [anyupload 是一个极度纯净的上传插件](https://github.com/dianbaer/anyupload)

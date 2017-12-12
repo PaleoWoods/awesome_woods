@@ -23,3 +23,5 @@
 * [SLF4J+Logback 日志框架使用](http://blog.csdn.net/conquer0715/article/details/9365899)
 * [slf4j+logback配置及详解](http://blog.csdn.net/claram/article/details/48066395)
 * [log4j+logback+slf4j+commons-logging的关系与调试](http://www.cnblogs.com/zhuawang/p/3999235.html)
+
+* [Beetl模板](http://ibeetl.com/)

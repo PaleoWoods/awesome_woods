@@ -48,3 +48,17 @@
   > JFinal-event事件驱动插件，无任何第三方依赖，小巧玲珑。
 
   [官方网站](http://www.dreamlu.net)
+
+* [ureport 报表引擎](https://github.com/youseries/ureport)
+  > UReport2是一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表。
+  > 在UReport2中，提供了全新的基于网页的报表设计器，可以在Chrome、Firefox、Edge等各种主流浏览器运行（IE浏览器除外）,打开浏览器即可完成各种复杂报表的设计制作。
+
+* [HikariCP 高性能 JDBC 连接池](https://github.com/brettwooldridge/HikariCP)
+  > Fast, simple, reliable. HikariCP is a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light.
+
+  [官方网站](http://brettwooldridge.github.io/HikariCP/)
+
+* [Keycloak 为浏览器和 RESTful Web 服务提供 SSO 的集成](https://github.com/keycloak/keycloak)
+  > 基于 OAuth 2.0 和 JSON Web Token(JWT) 规范。最开始是面向 JBoss 和 Wildfly 通讯
+
+  [官方网站](http://www.keycloak.org/)
