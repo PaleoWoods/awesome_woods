@@ -25,6 +25,8 @@
 * [moco](https://github.com/dreamhead/moco)
   > `Easy Setup Stub Server, Moco is an easy setup stub framework.`
 * [LuckyFrame 2.2 正式发布，一站式的自动化测试平台](https://gitee.com/seagull1985/LuckyFrameWeb)
+* [API管理平台XXL-API](https://github.com/xuxueli/xxl-api)
+  > `一个简洁易用API管理平台，提供API的"管理"、"文档"、"Mock"和"测试"等功能`
 
 ## PHP
 

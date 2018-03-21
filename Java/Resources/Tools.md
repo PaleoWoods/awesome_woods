@@ -36,9 +36,6 @@
 * [Netty]
   * [Netty In Action](http://lanxinglan.cn/2017/09/13/Netty-In-Action-%E4%BA%8C/)
 
-* [ureport](https://gitee.com/youseries/ureport)
-  > UReport2是一款高性能的Java报表引擎，提供完善的基于网页的报表设计器，可快速做出各种复杂的中式报表
-
 * [EasyPoi -- Excel和 Word简易工具类](https://gitee.com/lemur/easypoi)
   > POI 工具类,Excel的快速导入导出,Excel模板导出,Word模板导出,可以仅仅5行代码就可以完成Excel的导入导出,修改导出格式简单粗暴,快速有效,easypoi值得你尝试 
 
@@ -62,3 +59,15 @@
   > 基于 OAuth 2.0 和 JSON Web Token(JWT) 规范。最开始是面向 JBoss 和 Wildfly 通讯
 
   [官方网站](http://www.keycloak.org/)
+
+* [OpenKit 是我个人公司做项目的过程中总结出的一些比较好用的工具](https://gitee.com/benhailong/open_kit)
+  > OpenKit 是我个人公司做项目的过程中总结出的一些比较好用的工具，其中包括，时间转化，时间计算，红包计算等，比较好用的静态方法，同时，还有一些第三方的接口的集成。支付、推送、即时聊天，目前都是只针对APP端开发中的 service端 使用，web端的我们将在后期更新中添加
+
+* [Ehcache 3.x line](https://github.com/ehcache/ehcache3)
+  > 是一个纯Java的进程内缓存框架，具有快速、精干等特点，是Hibernate中默认的CacheProvider。
+
+* [HanLP](https://github.com/hankcs/HanLP)
+  > 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁
+
+* [WePush](https://github.com/rememberber/WePush)
+  > 专注批量推送的小而美的工具，目前支持的消息类型：微信模板消息、微信客服消息、阿里云短信、阿里大于模板短信 。

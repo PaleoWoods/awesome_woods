@@ -24,7 +24,6 @@
 
 * [BI系统：CBoard](https://github.com/yzhang921/CBoard)
 
-
 ## 开源框架
 
 * [Java 深度学习 Deep Learning for Java](https://deeplearning4j.org/)

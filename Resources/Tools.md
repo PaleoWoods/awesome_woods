@@ -23,3 +23,7 @@
 * [BootCDN：稳定、快速、免费的前端开源项目 CDN 加速服务](http://www.bootcdn.cn/)
 
 * [码农日常工具推荐（文档，思维导图，绘图）](https://juejin.im/entry/59c9eb05f265da06664153c1)
+
+## 其他工具
+
+*[Convert videos to high-quality GIFs on your Mac 高质量转换视频到 gif](https://github.com/sindresorhus/gifski-app)
