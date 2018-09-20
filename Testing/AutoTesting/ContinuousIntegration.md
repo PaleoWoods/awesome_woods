@@ -10,6 +10,7 @@
 * [Jenkins 创始人：持续交付的 What、Why 及 How](https://mp.weixin.qq.com/s/HGU0WW4Cv-I_y1xnWxR5Vw)
 * [持续交付模式下的安全活动](http://insights.thoughtworks.cn/security-in-continuous-delivery/)
 * [Jenkins实现自动化打包并集成fir平台（超详细）](https://mp.weixin.qq.com/s?sn=e9bdff7cb91b0eabbe67ec965f3be660&mid=2247487305&__biz=MzIwMzYwMTk1NA%3D%3D&utm_medium=email&utm_source=gank.io&idx=1)
+* [持续集成应有的标准规范](https://mp.weixin.qq.com/s/GIfxo6BTe6X_o2Qvu6MDIw)
 
 ## Jenkins 插件使用
 
