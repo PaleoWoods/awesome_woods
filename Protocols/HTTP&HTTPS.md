@@ -14,3 +14,9 @@
 
 * [浏览器缓存篇](https://github.com/laizimo/zimo-article/issues/24)
 * [前端必须要懂的浏览器缓存机制](https://github.com/zuopf769/notebook/blob/master/fe/%E5%89%8D%E7%AB%AF%E5%BF%85%E9%A1%BB%E8%A6%81%E6%87%82%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/README.md)
+
+## 请求方法篇
+
+### POST
+
+* [四种常见的 POST 提交数据方式](http://www.cnblogs.com/softidea/p/5745369.html)
